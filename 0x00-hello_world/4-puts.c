@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
 *main - entry point
+*main: string value char
 *return: always 0 (success)
 */
 int main(void)
