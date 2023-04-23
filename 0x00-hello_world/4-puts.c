@@ -1,7 +1,10 @@
 #include <stdio.h>
 /**
 *main - entry point
-*main: string value char
+*
+*description: 'program is a string'
+*return value of main: 0
+*
 *return: always 0 (success)
 */
 int main(void)
