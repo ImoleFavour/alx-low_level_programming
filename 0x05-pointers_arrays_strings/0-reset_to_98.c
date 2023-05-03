@@ -1,4 +1,4 @@
-include "main.h"
+#include "main.h"
 /**
  * reset_to_98 - a function that takes the pointer to an int
  * as parameter, and updates the value it prints to 98
